@@ -1,0 +1,38 @@
+.navbar-brand{
+    font-size: 2.2rem;
+    padding-left: 25px;
+}
+.navbar-brand:hover{
+  color: orange;
+}
+.nav-item{
+    padding-right: 25px;
+}
+.nav-link :hover{
+    transition: 0.3;
+    color: orange;
+}
+.h1{
+    font-size: 32px;
+   font-weight: bold;
+  
+}
+.b1{
+    background-color: orange;
+    border: none;
+    font-size: 1.6rem;
+}
+.b3{
+
+    font-family: ;
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+.num{
+    color: orange;
+}
+.welcome{
+    color: orange;
+}
